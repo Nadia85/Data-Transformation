@@ -1,5 +1,4 @@
-# Data-Transformation
-PCA Analysis
+# Data Transformation
 
 ## Principal Component Analysis
 ### Dimensionality Reduction
