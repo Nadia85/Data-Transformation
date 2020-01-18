@@ -1,8 +1,8 @@
 # Data Transformation
 
 ## Principal Component Analysis
-### Dimensionality Reduction
-### PCA Interpretation
+Dimensionality Reduction
+PCA Interpretation
 
 
 ______________________________________________________________________________________________________________________________
